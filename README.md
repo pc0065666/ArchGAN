@@ -2,6 +2,7 @@
 NTU-Civil_Engineering_Course
 Deep learning
 based on GeneGAN
+```
 @article{DBLP:journals/corr/ZhouXYFHH17,
   author    = {Shuchang Zhou and
                Taihong Xiao and
@@ -17,3 +18,4 @@ based on GeneGAN
   timestamp = {http://dblp.uni-trier.de/rec/bib/journals/corr/ZhouXYFHH17},
   bibsource = {dblp computer science bibliography, http://dblp.org}
 }
+```
